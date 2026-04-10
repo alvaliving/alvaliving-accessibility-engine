@@ -1,4 +1,4 @@
-# Alvaliving Accessibility & SEO Engine
+# Alvaliving Accessibility Engine
 
 A high-performance, zero-footprint **Must-Use (MU) Plugin** for WordPress designed to fix common accessibility (WCAG) and SEO issues programmatically. 
 
